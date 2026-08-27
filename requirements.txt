@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+camelot-py
+opencv-python-headless
+ghostscript
+pypdf
